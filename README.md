@@ -237,7 +237,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHIK27445&repo=Toy-Topia-Store&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ASHIK27445/Toy-Topia-Store)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Toy_Topia_Store-181717?logo=github)](https://github.com/ASHIK27445/Toy-Topia-Store)
 [![GitHub](https://img.shields.io/static/v1?label=ASHIK27445&message=Markdown-Blog-Post-&color=blue&logo=github)](https://github.com/ASHIK27445/Markdown-Blog-Post-)
 
 
@@ -257,7 +257,8 @@
 
 </div>
 
----
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
