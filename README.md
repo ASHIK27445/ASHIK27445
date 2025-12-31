@@ -17,7 +17,7 @@
 
 <!-- STUNNING STATS BANNER -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=🔥%20The%20Journey%20of%20a%20Thousand%20Commits%20🔥&bg_color=0d1117&color=00d9ff&line=00ffff&point=ff6b6b&area=true&hide_border=true&area_color=00d9ff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHIK27445&custom_title=🔥%20The%20Journey%20of%20a%20Thousand%20Commits%20🔥&bg_color=0d1117&color=00d9ff&line=00ffff&point=ff6b6b&area=true&hide_border=true&area_color=00d9ff" width="95%"/>
 </div>
 
 <br/>
