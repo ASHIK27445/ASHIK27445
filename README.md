@@ -223,12 +223,17 @@
 ## 🧮 GitHub Analytics
 
 <div align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ASHIK27445&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ASHIK27445&theme=highcontrast&hide_border=false" /><br/>
 </div>
 
 <div align="center">
   <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ASHIK27445&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ASHIK27445&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+</div>
+
 
 <!-- SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
