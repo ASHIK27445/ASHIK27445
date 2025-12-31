@@ -12,19 +12,37 @@
 
 </div>
 
----
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<div align="left">
+
+- 🔭 I'm currently working on ***Image annotation for prescription data*** — digitizing healthcare records
+- 🌱 I'm currently learning ***Backend development with MongoDB*** and exploring advanced server-side architectures
+- 👯 I'm looking to collaborate on ***Computer vision projects, healthcare tech solutions & full-stack applications***
+- 🤔 I'm looking for help with ***Scaling annotation workflows & optimizing database queries***
+- 💬 Ask me about **Image Processing, Medical Data Annotation, MongoDB, Backend Development, or anything tech!**
+- 📫 How to reach me: **mdashikulislam27889@gmail.com** or connect via socials below
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I can read doctors' handwriting better than most doctors... or at least I'm teaching AI to! 🏥 Also, I've debugged more annotation errors than I've had cups of tea! ☕**
+
+</div>
+
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- TECH STACK GALAXY -->
-<details open>
-<summary><h2>⚡ TECH ARSENAL - THE INFINITY GAUNTLET</h2></summary>
+## 💻 Tech Stack
 
 <br/>
 
 <!-- FRONTEND UNIVERSE -->
 <div align="center">
-
-### 🎨 FRONTEND COSMOS
-
+  <!--Frontend-->
 <table>
 <tr>
 <td align="center" width="96">
@@ -54,7 +72,7 @@
 </tr>
 </table>
 
-### ⚙️ BACKEND DIMENSION
+<!--backend-->
 
 <table>
 <tr>
@@ -85,7 +103,7 @@
 </tr>
 </table>
 
-### 💻 PROGRAMMING MATRIX
+<!--programming language-->
 
 <table>
 <tr>
@@ -105,21 +123,13 @@
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <br>Python
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-  <br>TypeScript
-</td>
 </tr>
 </table>
 
-### 🤖 AI/ML NEURAL NETWORK
+<!--Ai/machine learning-->
 
 <table>
 <tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-  <br>TensorFlow
-</td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
   <br>OpenCV
@@ -139,7 +149,7 @@
 </tr>
 </table>
 
-### 🎨 DESIGN & 3D REALM
+<!--3d-->
 
 <table>
 <tr>
@@ -162,7 +172,7 @@
 </tr>
 </table>
 
-### 🛠️ DEVELOPER TOOLS
+<!--developer tools-->
 
 <table>
 <tr>
@@ -179,91 +189,20 @@
   <br>VS Code
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br>Docker
-</td>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
   <br>Postman
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  <br>Linux
 </td>
 </tr>
 </table>
 
 </div>
 
-</details>
 
 <!-- SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-
----
-
-
-## 🎯 EXPERTISE CONSTELLATION
-
-```mermaid
-mindmap
-  root((🚀 ASHIK27445))
-    🌐 Web Development
-      Frontend Magic
-        React & Next.js
-        Three.js 3D
-        Responsive Design
-        UI/UX Excellence
-      Backend Power
-        Node.js & Express
-        RESTful APIs
-        Real-time Apps
-        Database Design
-      Full-Stack Mastery
-        MERN Stack
-        Authentication
-        Deployment
-        Optimization
-    🤖 AI & Machine Learning
-      Computer Vision
-        YOLO Detection
-        Object Tracking
-        Image Classification
-        OpenCV Magic
-      Data Engineering
-        Label Studio Pro
-        Data Augmentation
-        Dataset Preparation
-        Pipeline Building
-      ML Operations
-        Model Training
-        Deployment
-        Performance Tuning
-        Production Ready
-    🎨 3D & Design
-      3D Modeling
-        Blender Artistry
-        Asset Creation
-        UV Mapping
-        Texturing
-      Web Graphics
-        WebGL Mastery
-        Three.js Scenes
-        Shader Programming
-        Real-time Rendering
-      Technical Design
-        2D CAD Drawing
-        Precision Work
-        Technical Specs
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-
-<br/>
 
 
 
@@ -275,22 +214,10 @@ mindmap
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-### 🎯 Current Focus & Interests
-
-- 🔭 I'm currently working on **[Your Current Project - e.g., Building a 3D Portfolio Website with Three.js]**
-- 🌱 I'm currently learning **[What You're Learning - e.g., Advanced YOLO Models & WebGL Shaders]**
-- 👯 I'm looking to collaborate on **[Collaboration Interests - e.g., Open-source 3D Web Projects & AI/ML Tools]**
-- 🤔 I'm looking for help with **[What You Need Help With - e.g., Optimizing Three.js Performance]**
-- 💬 Ask me about **Web Development, Three.js, React, MERN Stack, YOLO, Data Annotation, or anything tech!**
-- 📫 How to reach me: **your.email@example.com** or connect via socials below
-- 😄 Pronouns: **He/Him** (or Your Pronouns)
-- ⚡ Fun fact: **I can debug code faster than I can find my keys in the morning! ☕**
-
----
-
+<br/>
 
 
 ### 📊 GitHub Analytics
@@ -305,15 +232,6 @@ mindmap
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ASHIK27445&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASHIK27445&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
 
 
 ### 🌟 Featured Projects
@@ -325,17 +243,6 @@ mindmap
 
 </div>
 
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ### 🤝 Let's Connect & Collaborate
 
